@@ -88,4 +88,4 @@ else:
     if args.check is not None:
         print(args.check in avail_apps)
 
-print("Thank you <3!")
+print("💙")
