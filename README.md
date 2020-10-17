@@ -1,5 +1,7 @@
 # Appfilter.xml builder
 
+A python script to generate appfilter.xml file for given app icons.
+
 ## Requirements
 
 ```bash
